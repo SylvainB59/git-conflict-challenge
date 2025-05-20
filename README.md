@@ -1,2 +1,2 @@
-# git-conflict-challenge
+## git-conflict-challenge ##
 test conflict wild
